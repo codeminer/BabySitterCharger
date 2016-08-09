@@ -1,0 +1,17 @@
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.exe.config
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.exe
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.pdb
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.csprojResolveAssemblyReference.cache
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.exe
+C:\Users\csharpprojects\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.pdb
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.dll.config
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.pdb
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.exe.config
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.exe
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\bin\Debug\BabySitterCharge.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.csprojResolveAssemblyReference.cache
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge\obj\Debug\BabySitterCharge.exe

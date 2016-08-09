@@ -1,0 +1,16 @@
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge_Test.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge_Test.pdb
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge.pdb
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.csprojResolveAssemblyReference.cache
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.dll
+C:\Users\Abdulqudus\Documents\Visual Studio 2015\Projects\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge_Test.dll
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge_Test.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge.exe
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\bin\Debug\BabySitterCharge.pdb
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.csprojResolveAssemblyReference.cache
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.dll
+C:\Users\yussu\Documents\BabySitterCharge\BabySitterCharge_Test\obj\Debug\BabySitterCharge_Test.pdb
